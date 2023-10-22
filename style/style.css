@@ -1,0 +1,74 @@
+body
+{
+    margin: 0;
+    background-color: #f0f0f0;
+    
+    
+}
+
+.page
+{
+    min-height: 100vh;
+    background-image: url(../img/3x3-Image-Plan.jpg);
+    background-size: 100%;
+}
+
+header
+{
+    background-color: rgb(129, 129, 47);
+    padding: 8px 16px;
+}
+
+.fond1
+{
+    width:75%;
+}
+
+.flex
+{
+    display: flex;
+}
+
+.centre
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.centre1
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+}
+
+.marge
+{
+    padding: 16px;
+}
+
+.deco
+{
+    text-decoration: none;
+    font: bolder;
+    color: white;
+    font-size: large;
+
+}
+
+.fond2
+{
+    background-color: rgb(129, 129, 47);
+    border-radius: 16px;
+    padding: 8px;
+}
+
+.espace
+{
+    gap: 16px;
+    display: flex;
+    align-items: center;
+}
