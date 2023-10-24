@@ -58,6 +58,19 @@ header
     font-size: large;
 
 }
+.deco1
+{
+    color: white;
+    margin-left: 48px;
+}
+.deco2
+{
+    text-decoration: none;
+    font: bolder;
+    color: white;
+    font-size: large;
+    padding: 8px 16px;
+}
 
 .fond2
 {
